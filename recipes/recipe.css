@@ -1,0 +1,16 @@
+.ice {
+    background-color: #60c0d1;
+   
+    
+}
+body {
+    font-family: 'Segoe UI', 'Tahoma', 'Geneva', 'Verdana', sans-serif;
+}
+
+.head {
+    text-align: center;
+}
+h1 {
+    font-size: 60px;
+   border-style: dashed;
+}
