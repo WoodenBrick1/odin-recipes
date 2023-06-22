@@ -7,10 +7,27 @@ body {
     font-family: 'Segoe UI', 'Tahoma', 'Geneva', 'Verdana', sans-serif;
 }
 
-.head {
+.head , h3{
     text-align: center;
 }
 h1 {
     font-size: 60px;
    border-style: dashed;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bord {
+    border-style: solid;
+    background-color: coral;
+}
+
+li {
+    list-style-type: none;
 }
