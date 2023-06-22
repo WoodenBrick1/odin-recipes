@@ -1,13 +1,16 @@
 .ice {
     background-color: #60c0d1;
-   
-    
 }
+
+.cupcake {
+    background-color: #d15c5c;
+}
+
 body {
     font-family: 'Segoe UI', 'Tahoma', 'Geneva', 'Verdana', sans-serif;
 }
 
-.head , h3{
+.head , h3 , div{
     text-align: center;
 }
 h1 {
@@ -23,7 +26,7 @@ img {
     margin-right: auto;
 }
 
-.bord {
+div {
     border-style: solid;
     background-color: coral;
 }
