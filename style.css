@@ -1,0 +1,25 @@
+h1 , .recipe  {
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+}
+.recipe {
+    font-size: 30px;
+}
+
+body {
+    font-family: 'Segoe UI', 'Tahoma', 'Geneva', 'Verdana', sans-serif;
+    background-color:  rgb(97, 95, 76);
+    color: #FFFFFF;
+}
+
+img {
+    width: 1000px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}

@@ -6,6 +6,11 @@
     background-color: #d15c5c;
 }
 
+.house {
+    background-color: black;
+    color: white;
+}
+
 body {
     font-family: 'Segoe UI', 'Tahoma', 'Geneva', 'Verdana', sans-serif;
 }
@@ -29,6 +34,7 @@ img {
 div {
     border-style: solid;
     background-color: coral;
+    color: black;
 }
 
 li {
