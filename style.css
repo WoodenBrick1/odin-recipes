@@ -40,4 +40,8 @@ div .cupcakes , div .house {
     margin-left: 150px;
 }
 
+.flex-container {
+    display: flex;
+}
+
 
