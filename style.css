@@ -16,10 +16,28 @@ body {
 }
 
 img {
-    width: 1000px;
-    height: auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    width: 600px;
+    height: 400px;
 
 }
+
+.inline {
+    display: inline;
+}
+
+.ice.recipe  {
+    margin-left: 200px;
+}
+.cupcakes.recipe  {
+    margin-left: 650px;
+}
+
+.house.recipe {
+    margin-left: 600px;
+}
+
+div .cupcakes , div .house {
+    margin-left: 150px;
+}
+
+
