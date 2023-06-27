@@ -25,23 +25,18 @@ img {
     display: inline;
 }
 
-.ice.recipe  {
-    margin-left: 200px;
-}
-.cupcakes.recipe  {
-    margin-left: 650px;
-}
 
-.house.recipe {
-    margin-left: 600px;
-}
 
-div .cupcakes , div .house {
-    margin-left: 150px;
-}
-
-.flex-container {
+.img-container {
     display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.text-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
 }
 
 
